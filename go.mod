@@ -1,1 +1,1 @@
-module github.com/mewspring/testmod
+module github.com/mewspring/testmod/v2
